@@ -2,8 +2,8 @@
 
 # VICKY AI PROJECT
 
-<a href="https://github.com/GabrielLugooo/Vicky-Ai/tree/main" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20in%20English-000000" alt="Vicky in English Logs" /></a>
-<a href="https://github.com/GabrielLugooo/Vicky-Ai/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20in%20Spanish-green" alt="Vicky in Spanish" /></a>
+<a href="https://github.com/GabrielLugooo/Vicky-Ai-Project" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20in%20English-000000" alt="Vicky in English Logs" /></a>
+<a href="https://github.com/GabrielLugooo/Vicky-Ai-Project/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20in%20Spanish-green" alt="Vicky in Spanish" /></a>
 
 ### Objective
 
