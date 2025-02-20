@@ -1,6 +1,8 @@
 <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
 
-# VICKY AI PROJECT (this is a public preview of a private repository)
+# VICKY AI PROJECT
+
+## (this is a public preview of a private repository)
 
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20in%20English-000000" alt="Vicky in English Logs" /></a>
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20in%20Spanish-green" alt="Vicky in Spanish" /></a>
