@@ -2,7 +2,7 @@
 
 # VICKY AI PROJECT
 
-## (this is a public preview of a private repository)
+### (this is a public preview of a private repository)
 
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20in%20English-000000" alt="Vicky in English Logs" /></a>
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20in%20Spanish-green" alt="Vicky in Spanish" /></a>
@@ -77,7 +77,7 @@ So yes, cybersecurity and ethical hacking are in the project's DNA.
 - Development Environment: Kali Linux, VS Code.
 - Cloud & Networking: AWS, Firebase, WebRTC.
 
-### SOON MORE INFO ABOUT THE PROJECT HERE !
+### SOON MORE INFO ABOUT VICKY HERE !
 
 <img align="center" src="https://i.imgur.com/BubTpE8.jpeg" alt="Vicky" />
 
@@ -103,4 +103,4 @@ So yes, cybersecurity and ethical hacking are in the project's DNA.
 
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
 <img align="center" src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Profile%20views&color=green&base=2000" alt="GabrielLugooo" />
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/License-MIT-green" alt="Last Edited" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/License-MIT-green" alt="MIT License" /></a>

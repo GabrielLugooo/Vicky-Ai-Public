@@ -2,7 +2,7 @@
 
 # PROYECTO VICKY IA
 
-## (Esta es una vista previa pública de un repositorio privado)
+### (Esta es una vista previa pública de un repositorio privado)
 
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20en%20Español-000000" alt="Vicky en Español" /></a>
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20en%20Inglés-green" alt="Vicky en Inglés" /></a>
@@ -77,7 +77,7 @@ Así que sí, la ciberseguridad y el hacking ético están en el ADN del proyect
 - Entorno de Desarrollo: Kali Linux, VS Code.
 - Cloud & Redes: AWS, Firebase, WebRTC.
 
-### PRÓXIMAMENTE MÁS INFORMACIÓN SOBRE EL PROYECTO AQUÍ !
+### PRÓXIMAMENTE MÁS INFORMACIÓN SOBRE VICKY AQUÍ !
 
 <img align="center" src="https://i.imgur.com/BubTpE8.jpeg" alt="Vicky" />
 
@@ -99,9 +99,8 @@ Así que sí, la ciberseguridad y el hacking ético están en el ADN del proyect
 <p align="left">
 <a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/Readme%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Versión%20Español-000000" alt="Versión Español" /></a>
 <a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Versión%20Inglés-Green" alt="Versión Inglés" /></a>
-
 </p>
 
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Créditos-Gabriel%20Lugo-green" alt="Créditos" /></a>
 <img align="center" src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Vistas%20del%20Perfil&color=green&base=2000" alt="GabrielLugooo" />
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/License-MIT-green" alt="Last Edited" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/License-MIT-green" alt="MIT License" /></a>
