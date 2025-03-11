@@ -55,18 +55,37 @@ So yes, cybersecurity and ethical hacking are in the project's DNA.
 
 ![Static Badge](https://img.shields.io/badge/HTML-000000?logo=html5&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Javascript-000000?logo=javascript&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Node.JS-000000?logo=nodedotjs&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Json-000000?logo=json&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/YAML-000000?logo=yaml&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/React-000000?logo=react&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/WebGL-000000?logo=webgl&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Three.JS-000000?logo=threedotjs&logoSize=auto)
 
-![Static Badge](https://img.shields.io/badge/OWASP-000000?logo=owasp&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Google%20SecOps-000000?logo=google&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/-000000?logo=splunk&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/TCPDump-000000?logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Wireshark-000000?logo=wireshark&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Linux-000000?logo=linux&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/SQL-000000?logo=sqlite&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Node.JS-000000?logo=nodedotjs&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Express-000000?logo=express&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Socket.IO-000000?logo=socketdotio&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/BERT-000000?logo=bert&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Amazon%20Polly-000000?logo=amazonalexa&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Whisper-000000?logo=whisper&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/MediaPipe-000000?logo=mediapipe&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Tensorflow-000000?logo=tensorflow&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/MetaHuman-000000?logo=metahuman&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Unreal%20Engine-000000?logo=unrealengine&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Blender-000000?logo=blender&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Maya-000000?logo=maya&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/ZBrush-000000?logo=zbrush&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Redis-000000?logo=redis&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Kali%20Linux-000000?logo=kalilinux&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/VS%20Code-000000?logo=vscode&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Amazon AWS-000000?logo=amazonwebservices&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Firebase-000000?logo=firebase&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/WebRTC-000000?logo=webrtc&logoSize=auto)
 
 - Front-End: React, WebGL, Three.js for 3D rendering.
 - Back-End: Node.js, Express, Socket.io for real-time interaction.
