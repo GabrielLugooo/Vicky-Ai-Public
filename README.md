@@ -83,7 +83,7 @@ So yes, cybersecurity and ethical hacking are in the project's DNA.
 ![Static Badge](https://img.shields.io/badge/Kali%20Linux-000000?logo=kalilinux&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/VS%20Code-000000?logo=vscode&logoSize=auto)
 
-![Static Badge](https://img.shields.io/badge/Amazon AWS-000000?logo=amazonwebservices&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/AWS-000000?logo=amazonwebservices&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Firebase-000000?logo=firebase&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/WebRTC-000000?logo=webrtc&logoSize=auto)
 
